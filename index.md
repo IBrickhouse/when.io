@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Where's Introduction Page
 
-You can use the [editor on GitHub](https://github.com/IBrickhouse/where.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+When is an app for converting time zones and scheduling tv shows, movies, and radio shows for you simply and easily.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### App features
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Initial 99 cent app purchase features include:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Time Zone Conversion
+- Input your location and Where will convert and automatically show you 
+  the showtimes of your scheduled shows in your local time zone
+  
+Show Bookmarks
+- Where will keep track of the shows you're looking forward to and send 
+  reminders just before showtime.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Premium $3.00 a month app purchase features include: 
 
-### Jekyll Themes
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IBrickhouse/where.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Calendar View
+- Things are sometimes easier to visualize from a calendar so When can 
+  show you upcoming shows in a calendar form.
+```
 
-### Support or Contact
+Along wih many more to come!
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As an app buit for people who love foreign media by someone with the same interests, When strives to make things as easy as possible for you to keep up with your favorites!
+
+Available on the App Store or the Google Play Store (eventually)
+
