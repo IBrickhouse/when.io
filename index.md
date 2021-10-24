@@ -1,4 +1,4 @@
-## Welcome to Where's Introduction Page
+## Welcome to When's Introduction Page
 
 When is an app for converting time zones and scheduling tv shows, movies, and radio shows for you simply and easily.
 
@@ -17,7 +17,7 @@ Show Bookmarks
   reminders just before showtime.
 ```
 
-Premium $3.00 a month app purchase features include: 
+Premium $3.00/month app purchase features include: 
 
 ```markdown
 
