@@ -1,2 +1,2 @@
 # when.io
-When app idea landing page
+When app Introduction Page
