@@ -9,12 +9,13 @@ Initial 99 cent app purchase features include:
 ```markdown
 
 Time Zone Conversion
-- Input your location and Where will convert and automatically show you 
-  the showtimes of your scheduled shows in your local time zone
+- Input your location and Where will convert and 
+  automatically show you the showtimes of your
+  scheduled shows in your local time zone.
   
 Show Bookmarks
-- Where will keep track of the shows you're looking forward to and send 
-  reminders just before showtime.
+- Where will keep track of the shows you're looking
+  forward to and send reminders just before showtime.
 ```
 
 Premium $3.00/month app purchase features include: 
@@ -22,8 +23,9 @@ Premium $3.00/month app purchase features include:
 ```markdown
 
 Calendar View
-- Things are sometimes easier to visualize from a calendar so When can 
-  show you upcoming shows in a calendar form.
+- Things are sometimes easier to visualize from a 
+  calendar so When can show you upcoming shows 
+  in a calendar form.
 ```
 
 Along wih many more to come!
