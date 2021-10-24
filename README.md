@@ -1,2 +1,2 @@
-# where.io
-Where app idea landing page
+# when.io
+When app idea landing page
